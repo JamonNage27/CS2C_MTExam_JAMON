@@ -1,4 +1,4 @@
-//userProfileobject.js
+//colorPreferences.js
 let colors = [];
 
 for (let i = 0; i < 3; i++) {
